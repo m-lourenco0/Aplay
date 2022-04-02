@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Aplay",
+    "slug": "Aplay",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Aplay"
+}
