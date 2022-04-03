@@ -4,6 +4,7 @@ import android.app.Application;
 import android.content.Context;
 import android.content.res.Configuration;
 import androidx.annotation.NonNull;
+import com.thebylito.navigationbarcolor.NavigationBarColorPackage;
 
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
@@ -37,6 +38,7 @@ public class MainApplication extends Application implements ReactApplication {
       // packages.add(new MyReactNativePackage());
       return packages;
     }
+
 
     @Override
     protected String getJSMainModuleName() {
